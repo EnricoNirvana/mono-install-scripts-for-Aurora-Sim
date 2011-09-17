@@ -4,7 +4,7 @@ Here are the scripts will let you do that.
 
 Instructions (mono 2.10.2):
 
-1.- wget --no-check-certificate https://github.com/EnricoNirvana/mono-install-scripts-for-Aurora-Sim/raw/master/mono-install-scripts-for-Aurora-Sim/install_mono-2.10.sh
+1.- wget --no-check-certificate https://raw.github.com/EnricoNirvana/mono-install-scripts-for-Aurora-Sim/master/install_mono-2.10.sh
 2.- chmod 755 install_mono-2.10.sh
 3.- ./install_mono-2.10.sh
 
